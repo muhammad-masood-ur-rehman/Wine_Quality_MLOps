@@ -1,5 +1,5 @@
 # Wine Quality MLOps
-''' bash 
+```bash 
 Wine quality MLOps
 ├───.dvc
 │   ├───cache
@@ -44,4 +44,4 @@ Wine quality MLOps
 └───tempelate.py
     
 
-'''
+```
