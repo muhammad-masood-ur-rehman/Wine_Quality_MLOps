@@ -29,19 +29,20 @@ Wine quality MLOps
 ├───report
 ├───saved_models
 ├───src
-|     ├───__pycache__
-|     ├───__init__.py
-|     ├───get_data.py
-|     ├───load_data.py
-|     ├───split_data.py
-|     └───train_and_evaluate.py
-|     
+│     ├───__pycache__
+│     ├───__init__.py
+│     ├───get_data.py
+│     ├───load_data.py
+│     ├───split_data.py
+│     └───train_and_evaluate.py
+│    
 ├───dvc.lock
 ├───dvc.yaml
 ├───params.yaml
 ├───README.md
 ├───requirements.txt
-└───tempelate.py
+├───tempelate.py
+└───tox.ini
     
 
 ```
